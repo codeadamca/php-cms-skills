@@ -2,7 +2,7 @@
 
 This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](https://github.com/codeadamca/php-cms) repo.
 
-1. Crate a skills table:
+1. Create a skills table:
 
 ![Skills Table Structure](https://raw.githubusercontent.com/codeadamca/php-cms-skills/main/skills-table-structure.png)
 
