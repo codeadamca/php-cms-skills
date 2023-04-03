@@ -5,6 +5,8 @@
 
 This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](https://github.com/codeadamca/php-cms) repo.
 
+## Database
+
 1. Create a skills table:
 
 ![Skills Table Structure](_readme/skills-table-structure.png)
