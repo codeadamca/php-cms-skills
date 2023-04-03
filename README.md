@@ -7,7 +7,7 @@ This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](htt
 
 1. Create a skills table:
 
-![Skills Table Structure](https://raw.githubusercontent.com/codeadamca/php-cms-skills/main/skills-table-structure.png)
+![Skills Table Structure](_readme/skills-table-structure.png)
 
 2. Modify dashboard.php.
 3. Add list, add, and edit to the amin. 
