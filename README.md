@@ -9,7 +9,7 @@ This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](htt
 
 1. Create a skills table:
 
-![Skills Table Structure](_readme/skills-table-structure.png)
+    ![Skills Table Structure](_readme/skills-table-structure.png)
 
 2. Modify dashboard.php.
 3. Add list, add, and edit to the amin. 
@@ -17,9 +17,10 @@ This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](htt
 
 ***
 
-## Repository Resources
+## Repo Resources
 
 * [php-cms](https://github.com/codeadamca/php-cms)
+* [PHP](https://www.php.net/)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
