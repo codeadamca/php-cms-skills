@@ -1,6 +1,6 @@
 # Skills Module for PHP CMS
 
-> **Warning**  
+> [!Warning]  
 > This repo is a work in progress!
 
 This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](https://github.com/codeadamca/php-cms) repo.
