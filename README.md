@@ -22,6 +22,7 @@ This is a basic skills module basaed on the PHP CMS avalable in my [php-cms](htt
 * [php-cms](https://github.com/codeadamca/php-cms)
 * [PHP](https://www.php.net/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
